@@ -1,0 +1,14 @@
+
+
+body{ background-color:  #13C5DD;       }
+.div2{                  width: 100%;   height: 210px;  background-color:   #13C5DD;padding: 2px  }
+.h1x{ text-align: center;font-size: xxx-large;color: white; margin-top: 69px;}
+.p1{text-align: center;color: white;}
+.container{background-color: none;height: 388px;margin-top: 51px;}
+
+.mainbar{width: 100%;height: 39px;background-color: black;padding: 10px;}
+
+.newo{width: 25%;float: left;text-align: center;}
+.buttn{color: white;padding: 12px;}
+.newo:hover{background-color: black; color: white;}
+.form-control{height: 53px;width: 75%;margin-left: 147px;}
